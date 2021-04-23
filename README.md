@@ -1,7 +1,7 @@
 # license-plate-yolov5
 ## ALPR-Yolov5 (Automatic license Plate detection and recognition) 
 ### dependencies
-
+`
 NVIDIA GPUs
 NVIDIA graphic driver
 CUDA toolkit
@@ -17,8 +17,10 @@ scipy>=1.4.1
 tensorboard>=2.2
 torch>=1.6.0
 torchvision>=0.7.0
+`
+`
 tqdm>=4.41.0
-
+`
 This is the Automatic license plate detection and recognition system using Yolov5. Both plate detection and character detection and recognition using Yolov5. I used EnglishLP dataset for experiment but you can try with any other dataset also
 We need 2 pt files in this project.1 file detect number plate, 1 file detect characters.You can train the model yourself on google colab.
 link : https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ
