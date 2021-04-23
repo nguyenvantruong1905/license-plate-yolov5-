@@ -26,4 +26,6 @@ After you have your model, you can replace the model number plate recognition to
 In my code, I have added 2 .pt files to the right location, the accuracy of the data in the 2 files is relative, you can try.
 
 Final: run the file `combinetest.py`
+
+
 ![P1010002](https://user-images.githubusercontent.com/66860881/115814289-f2897180-a41e-11eb-9161-e136a84c46be.png)
